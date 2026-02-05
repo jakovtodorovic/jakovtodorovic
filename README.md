@@ -4,6 +4,9 @@
 
 - <b>SOC Detection & Response Lab (SIEM + SOAR)</b>
   - [SOC Detection & Response Lab (SIEM + SOAR)](https://github.com/jakovtodorovic/SOC-Lab-SIEM-SOAR/)
+ 
+- <b>Encrypted Message Steganography Tool (Python)</b>
+  - [Encrypted Message Steganography Tool (Python)](https://github.com/jakovtodorovic/encrypted-message-steganography)
 
 
 <!--
