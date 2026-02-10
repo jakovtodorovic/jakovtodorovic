@@ -8,7 +8,8 @@
 - <b>Encrypted Message Steganography Tool (Python)</b>
   - [Encrypted Message Steganography Tool (Python)](https://github.com/jakovtodorovic/encrypted-message-steganography)
 
-
+- <b>Encrypted Message Steganography Tool (Python)</b>
+  - [OpenSSH Agent Forwarding Vulnerability Analysis (CVE-2023-38408)](https://github.com/jakovtodorovic/openSSH-agent-forwarding-vulnerability-analysis-CVE-2023-38408)
 <!--
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
