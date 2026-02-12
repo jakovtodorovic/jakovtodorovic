@@ -14,7 +14,7 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Hack The Box" width="22px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackthebox.svg" />][hackthebox]
+<!-- [<img align="left" alt="Hack The Box" width="22px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackthebox.svg" />][hackthebox] -->
 
 [linkedin]: https://linkedin.com/in/jakovtodorovic
-[hackthebox]: https://app.hackthebox.com/users/437364
+<!-- [hackthebox]: https://app.hackthebox.com/users/437364 -->
